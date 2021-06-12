@@ -1,4 +1,4 @@
-### Hi
+![joke-binary](https://user-images.githubusercontent.com/12943990/121787554-ad6afb80-cb94-11eb-80a9-4f62a97996ab.jpg)
 
 <!--
 **kuripart/kuripart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
