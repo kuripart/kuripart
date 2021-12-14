@@ -1,4 +1,10 @@
-![git-welcome](https://user-images.githubusercontent.com/12943990/131400211-4148c515-5bcd-4bb4-9efc-14a259e2e2ff.gif)
+<div align="center">
+	<br>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
 
 <!--
 **kuripart/kuripart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
